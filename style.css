@@ -1,0 +1,17 @@
+body {
+    background-image: url(dreamy-floral-background_53876-92903.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+} 
+
+div {
+    background-color: bisque;
+    margin: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: 40px;
+    opacity: 0.7;
+   
+}
